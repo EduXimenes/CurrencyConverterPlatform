@@ -1,0 +1,17 @@
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Infrastructure\bin\Debug\net8.0\CurrencyConversion.Infrastructure.deps.json
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Infrastructure\bin\Debug\net8.0\CurrencyConversion.Infrastructure.dll
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Infrastructure\bin\Debug\net8.0\CurrencyConversion.Infrastructure.pdb
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Infrastructure\bin\Debug\net8.0\CurrencyConversion.Application.dll
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Infrastructure\bin\Debug\net8.0\CurrencyConversion.Domain.dll
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Infrastructure\bin\Debug\net8.0\CurrencyConversion.Application.pdb
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Infrastructure\bin\Debug\net8.0\CurrencyConversion.Domain.pdb
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Infrastructure\obj\Debug\net8.0\CurrencyConversion.Infrastructure.csproj.AssemblyReference.cache
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Infrastructure\obj\Debug\net8.0\CurrencyConversion.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Infrastructure\obj\Debug\net8.0\CurrencyConversion.Infrastructure.AssemblyInfoInputs.cache
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Infrastructure\obj\Debug\net8.0\CurrencyConversion.Infrastructure.AssemblyInfo.cs
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Infrastructure\obj\Debug\net8.0\CurrencyConversion.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Infrastructure\obj\Debug\net8.0\CurrencyConversion.Infrastructure.csproj.CopyComplete
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Infrastructure\obj\Debug\net8.0\CurrencyConversion.Infrastructure.dll
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Infrastructure\obj\Debug\net8.0\refint\CurrencyConversion.Infrastructure.dll
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Infrastructure\obj\Debug\net8.0\CurrencyConversion.Infrastructure.pdb
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Infrastructure\obj\Debug\net8.0\ref\CurrencyConversion.Infrastructure.dll

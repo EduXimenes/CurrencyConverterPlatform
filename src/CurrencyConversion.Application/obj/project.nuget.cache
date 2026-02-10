@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tCrHDCx5+YoCa9AX8qCgO+jathHoTWl6AWOW0TZrHlWjMflv+VXFPexEfsT6fV/hu7XFAZ0RhoKNBwq2asmkbw==",
+  "success": true,
+  "projectFilePath": "C:\\Portfolio\\CurrencyConversion\\src\\CurrencyConversion.Application\\CurrencyConversion.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\exime\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
+    "C:\\Users\\exime\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.1.1\\fluentvalidation.dependencyinjectionextensions.12.1.1.nupkg.sha512",
+    "C:\\Users\\exime\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.3\\microsoft.extensions.dependencyinjection.abstractions.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

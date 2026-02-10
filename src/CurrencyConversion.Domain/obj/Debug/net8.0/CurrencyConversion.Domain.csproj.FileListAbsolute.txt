@@ -1,0 +1,11 @@
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Domain\bin\Debug\net8.0\CurrencyConversion.Domain.deps.json
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Domain\bin\Debug\net8.0\CurrencyConversion.Domain.dll
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Domain\bin\Debug\net8.0\CurrencyConversion.Domain.pdb
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Domain\obj\Debug\net8.0\CurrencyConversion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Domain\obj\Debug\net8.0\CurrencyConversion.Domain.AssemblyInfoInputs.cache
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Domain\obj\Debug\net8.0\CurrencyConversion.Domain.AssemblyInfo.cs
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Domain\obj\Debug\net8.0\CurrencyConversion.Domain.csproj.CoreCompileInputs.cache
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Domain\obj\Debug\net8.0\CurrencyConversion.Domain.dll
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Domain\obj\Debug\net8.0\refint\CurrencyConversion.Domain.dll
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Domain\obj\Debug\net8.0\CurrencyConversion.Domain.pdb
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Domain\obj\Debug\net8.0\ref\CurrencyConversion.Domain.dll
