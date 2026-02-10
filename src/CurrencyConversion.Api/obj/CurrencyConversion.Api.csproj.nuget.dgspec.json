@@ -274,6 +274,24 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.9, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[10.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[10.0.3, )"
+            },
+            "Microsoft.Extensions.Http.Polly": {
+              "target": "Package",
+              "version": "[10.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

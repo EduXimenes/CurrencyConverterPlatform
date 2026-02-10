@@ -9,3 +9,4 @@ C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Domain\obj\Debug\net8.0\C
 C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Domain\obj\Debug\net8.0\refint\CurrencyConversion.Domain.dll
 C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Domain\obj\Debug\net8.0\CurrencyConversion.Domain.pdb
 C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Domain\obj\Debug\net8.0\ref\CurrencyConversion.Domain.dll
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Domain\obj\Debug\net8.0\CurrencyConversion.Domain.sourcelink.json

@@ -13,3 +13,4 @@ C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Application\obj\Debug\net
 C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Application\obj\Debug\net8.0\refint\CurrencyConversion.Application.dll
 C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Application\obj\Debug\net8.0\CurrencyConversion.Application.pdb
 C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Application\obj\Debug\net8.0\ref\CurrencyConversion.Application.dll
+C:\Portfolio\CurrencyConversion\src\CurrencyConversion.Application\obj\Debug\net8.0\CurrencyConversion.Application.sourcelink.json
