@@ -1,6 +1,0 @@
-<Project>
-  <PropertyGroup>
-    <!-- Prevents build freeze: do not use the shared compiler process (VBCSCompiler) which can hang on some machines -->
-    <UseSharedCompilation>false</UseSharedCompilation>
-  </PropertyGroup>
-</Project>
