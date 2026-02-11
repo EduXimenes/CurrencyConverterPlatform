@@ -2,6 +2,7 @@ using CurrencyConversion.Application.DTOs;
 using CurrencyConversion.Application.Interfaces;
 using CurrencyConversion.Application.Validators;
 using FluentValidation;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CurrencyConversion.Api.Controllers.V1;
@@ -9,10 +10,12 @@ namespace CurrencyConversion.Api.Controllers.V1;
 /// <summary>
 /// Currency rates and conversion (v1).
 /// Blocked currencies: TRY, PLN, THB, MXN (HTTP 400).
+/// Requires JWT authentication; User or Admin role.
 /// </summary>
 [ApiController]
 [Route("api/v{version:apiVersion}/[controller]")]
 [ApiVersion("1.0")]
+[Authorize(Policy = "RequireUser")]
 public class RatesController : ControllerBase
 {
     private readonly IRatesService _ratesService;
